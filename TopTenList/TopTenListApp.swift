@@ -12,6 +12,7 @@ struct TopTenListApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            BER_TAG_OCTET_STRING
         }
     }
 }
